@@ -47,11 +47,17 @@ Now upload the code to Arduino and connect the components as described in the ci
 
 >Arduino Micro has been displayed in the circuit diagram  but in this project i have considered Ardunio Uno R3, but both perform in the same way.
 
-![Circuit_Diagram](https://github.com/Manoj24-code/Smart-Switch/blob/5a27b9524df0553cae58e2b31004652d7fb5c818/smart%20switch%20circuit%20diagram.webp)
+<img src="https://github.com/Manoj24-code/Smart-Switch/blob/5a27b9524df0553cae58e2b31004652d7fb5c818/smart%20switch%20circuit%20diagram.webp" alt="Circuit_Diagram" width="300" height="200">
 
 In this project i have also powered up the Arduino using 5v Battery, below is the connected image 
 
-![user_circuit_with_battery](https://github.com/Manoj24-code/Smart-Switch/blob/ee3fcf7cd53479281596db4d36a73b338e1cb383/Circuit%20connection%20connected%20to%20a%205%20battery.jpg)
+<img src="https://github.com/Manoj24-code/Smart-Switch/blob/ee3fcf7cd53479281596db4d36a73b338e1cb383/Circuit%20connection%20connected%20to%20a%205%20battery.jpg" alt="Circuit_diagram_with_battery" width="700" height="500">
 
+
+## Executing the Project
+
+Now, power the device and the relay. When you move your hand in an upward direction, the relay will be moved and the lights will switch ON. Similarly, a hand gesture in a downward direction will switch OFF the lights.
+
+<img src="https://github.com/Manoj24-code/Smart-Switch/blob/ee3fcf7cd53479281596db4d36a73b338e1cb383/Circuit%20connection%20connected%20to%20a%205%20battery.jpg" alt="Circuit_diagram_with_battery" width="700" height="500">
 
 
