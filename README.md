@@ -45,7 +45,7 @@ Right: Fans OFF
 
 Now upload the code to Arduino and connect the components as described in the circuit diagram. Then connect the AC wire with the common pin of the relay module to control the lights and fans.
 
-![Circuit_Diagram](
+![Circuit_Diagram](smart switch circuit diagram.webp)
 
 
 
