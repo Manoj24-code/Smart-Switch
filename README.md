@@ -51,7 +51,7 @@ Now upload the code to Arduino and connect the components as described in the ci
 
 In this project i have also powered up the Arduino using 5v Battery, below is the connected image 
 
-![user_circuit_with_battery](
+![user_circuit_with_battery](https://github.com/Manoj24-code/Smart-Switch/blob/ee3fcf7cd53479281596db4d36a73b338e1cb383/Circuit%20connection%20connected%20to%20a%205%20battery.jpg)
 
 
 
