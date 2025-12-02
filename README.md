@@ -14,6 +14,7 @@ Main idea is to develop Hands free switch that operate home appliances by conver
    
 ## Coding for Gesture Controlled switch
 ### Code for this project has been attached as a separate file to this repository  
+>Refer [demo.ino](https://github.com/Manoj24-code/Smart-Switch/blob/c17118b2daa4e29d397b9275b3f2246d37a8adb4/demo.ino) file in the same repository
 
 To start with install  [Arduino IDE](https://www.arduino.cc/en/software/)  
 
