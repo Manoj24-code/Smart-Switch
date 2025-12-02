@@ -59,6 +59,8 @@ In this project i have also powered up the Arduino using 5v Battery, below is th
 
 Now, power the device and the relay. When you move your hand in an upward direction, the relay will be moved and the lights will switch ON. Similarly, a hand gesture in a downward direction will switch OFF the lights.
 
-<img src="https://github.com/Manoj24-code/Smart-Switch/blob/ee3fcf7cd53479281596db4d36a73b338e1cb383/Circuit%20connection%20connected%20to%20a%205%20battery.jpg" alt="Circuit_diagram_with_battery" width="700" height="500">
+As the picture depicts, Relay has been connected to actual switch board of the my House
+
+<img src="https://github.com/Manoj24-code/Smart-Switch/blob/90648bd8cd6c561815e1d49941352ac4ba2b790b/Circuit%20connection%20with%20actual%20switch%20board.jpg" alt="Circuit_diagram_with_battery" width="700" height="500">
 
 
