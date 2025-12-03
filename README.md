@@ -44,7 +44,11 @@ Right: Fans OFF
 
 ## Hardware Connections 
 
-Now upload the code to Arduino and connect the components as described in the circuit diagram. Then connect the AC wire with the common pin of the relay module to control the lights and fans.  
+Now upload the code to Arduino and connect the compon
+
+
+
+ents as described in the circuit diagram. Then connect the AC wire with the common pin of the relay module to control the lights and fans.  
 
 >Arduino Micro has been displayed in the circuit diagram  but in this project i have considered Ardunio Uno R3, but both perform in the same way.
 
@@ -69,7 +73,12 @@ As the picture depicts, Relay has been connected to actual switch board of the m
 
 ## Working output
 
-Output reflecting on study lamp  | Output reflecting on Actual bulb from switch board
-:-: | :-:
-https://github.com/user-attachments/assets/ef94f16e-2bf8-4fff-bebe-d635e6b2a41c | <video src="https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20actual%20switch%20board%20with%20working%20wall%20bulb.mov"></video> 
+**1.Output reflecting on study lamp  **
+
+https://github.com/user-attachments/assets/ef94f16e-2bf8-4fff-bebe-d635e6b2a41c 
+
+
+**2.Output reflecting on actual switch borad bulb**
+
+https://github.com/user-attachments/assets/56f461e0-02ba-45d9-9b2b-3e56a6f636b3
 
