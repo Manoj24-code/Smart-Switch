@@ -63,4 +63,13 @@ As the picture depicts, Relay has been connected to actual switch board of the m
 
 <img src="https://github.com/Manoj24-code/Smart-Switch/blob/90648bd8cd6c561815e1d49941352ac4ba2b790b/Circuit%20connection%20with%20actual%20switch%20board.jpg" alt="Circuit_diagram_with_battery" width="700" height="500">
 
+## Working output
+
+// Source - https://stackoverflow.com/a
+// Posted by Mahesh Jamdade, modified by community. See post 'Timeline' for change history
+// Retrieved 2025-12-03, License - CC BY-SA 4.0
+
+Output reflecting on study lamp  | Output reflecting on Actual bulb from switch board
+:-: | :-:
+<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
 
