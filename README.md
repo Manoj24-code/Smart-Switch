@@ -6,7 +6,7 @@ Main idea is to develop Hands free switch that operate home appliances by conver
 ## Hardware Components Used
 
 **1. Ardunio Uno R3**\
-**2. [APDS-9960 Gesture Sensor](https://soldered.com/documentation/apds-9960/how-it-works/?srsltid=AfmBOoq1Y4LUO8hL-ZFALgMtIcMf2TFSDYAvHwsP0B-i9-hNhBLMxsml)** [DATA Sheet]()
+**2. [APDS-9960 Gesture Sensor](https://soldered.com/documentation/apds-9960/how-it-works/?srsltid=AfmBOoq1Y4LUO8hL-ZFALgMtIcMf2TFSDYAvHwsP0B-i9-hNhBLMxsml)** Please refer the data sheet [DATA Sheet](https://github.com/Manoj24-code/Smart-Switch/blob/ea2abdf1f73805243209f1bae6a09447368842a6/Nano_BLE_Sense_av02-4191en_ds_apds-9960_Data_sheet.pdf)\
 **3. Relay Module**\
 **4. OLED Display Module**\
 **5. Wires and Connectors**  
