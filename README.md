@@ -71,5 +71,5 @@ As the picture depicts, Relay has been connected to actual switch board of the m
 
 Output reflecting on study lamp  | Output reflecting on Actual bulb from switch board
 :-: | :-:
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+<video src='https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20a%20study%20lamp.mp4' width=180/> | <video src='https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20actual%20switch%20board%20with%20working%20wall%20bulb.mov' width=180/>
 
