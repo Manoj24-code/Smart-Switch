@@ -57,6 +57,10 @@ In this project i have also powered up the Arduino using 5v Battery, below is th
 
 ## Executing the Project
 
+
+
+
+
 Now, power the device and the relay. When you move your hand in an upward direction, the relay will be moved and the lights will switch ON. Similarly, a hand gesture in a downward direction will switch OFF the lights.
 
 As the picture depicts, Relay has been connected to actual switch board of the my House
@@ -67,5 +71,5 @@ As the picture depicts, Relay has been connected to actual switch board of the m
 
 Output reflecting on study lamp  | Output reflecting on Actual bulb from switch board
 :-: | :-:
-<video src ="https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20a%20study%20lamp.mp4"></video> | <video src="https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20actual%20switch%20board%20with%20working%20wall%20bulb.mov"></video> 
+https://github.com/user-attachments/assets/ef94f16e-2bf8-4fff-bebe-d635e6b2a41c | <video src="https://github.com/Manoj24-code/Smart-Switch/blob/a9d3ff98782ef3adce1c19c058805b40f92b8813/Working%20module%20with%20actual%20switch%20board%20with%20working%20wall%20bulb.mov"></video> 
 
